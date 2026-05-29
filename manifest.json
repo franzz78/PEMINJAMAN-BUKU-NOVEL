@@ -1,6 +1,6 @@
 {
-  "name": "E-Library SMAN 1 Lemahabang",
-  "short_name": "E-Lib LA",
+  "name": "E-Perpus SMAN 1 Lemahabang",
+  "short_name": "E-Perpus LA",
   "description": "Aplikasi Perpustakaan Digital SMAN 1 Lemahabang",
   "start_url": "index.html",
   "display": "standalone",
